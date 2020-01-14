@@ -109,7 +109,7 @@ Note that when navigating away from the controller the followers might keep the 
 
 ## Additional scroll
 
-If you want to furhter scroll the navigation bar out of the way, you can use the optional parameter `additionalOffset` in the `followScrollView` call.
+If you want to further scroll the navigation bar out of the way, you can use the optional parameter `additionalOffset` in the `followScrollView` call.
 
 ## Scrolling the TabBar
 You can also pass a `UITabBar` in the `followers` array:
